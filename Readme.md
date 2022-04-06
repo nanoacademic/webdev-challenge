@@ -27,7 +27,7 @@ Build a periodic table that displays the symbol, atomic number, and name of the 
 - Create a main page view that displays the **first 54 elements** of the periodic table. Elements should show Atomic number, symbol, and name.
 - Fix the error in the API if it still exists. Adjust boron to have period 2 (so that it is on row 2).
 - Create a detail view that shows all information for that element.
-- Display the detail view on the same page or in a new page. Same page should display a new element on click. New pages should include a back button to the main periodic table.
+- Display the detail view on clicking an element. The detail view should be shown on the same page or in a new page. New pages should include a back button to the main periodic table.
 - Include a Readme with instructions to run your project. You may assume the reader has npm and/or python installed. (hint: include a package.json or requirements.txt)
 
 
